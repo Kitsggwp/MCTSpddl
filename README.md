@@ -14,3 +14,9 @@ Gripper P01 :
 
 -Time : 0.18s
 
+Logistics : 
+
+Time : 0.2 s
+Plan length : 0 (no found)
+
+
